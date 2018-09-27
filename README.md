@@ -1,4 +1,4 @@
-# DATA471
+# DATA471 : The Trustworthy Data Scientist
 Open Repository of Knowledge for DATA471
 
 Buiding an ethics in data science course for data scientists, the open way.  
